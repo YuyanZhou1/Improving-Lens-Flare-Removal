@@ -1,7 +1,7 @@
 # ICCV 2023: Improving Lens Flare Removal with General Purpose Pipeline and Multiple Light Sources Recovery
 ## Dataset
 ### Training data
-Wu el al. training images are provided in [How to Train Neural Networks for Flare Removal](https://github.com/google-research/google-research/tree/master/flare_removal) (Wu et al., ICCV 2021)
+Wu el al. training images are provided in [How to Train Neural Networks for Flare Removal](https://github.com/google-research/google-research/tree/master/flare_removal) (Wu et al. ICCV 2021)
 
 Flare7K training images are provided in [Flare7K: A Phenomenological Nighttime Flare Removal Dataset](https://github.com/ykdai/Flare7K) (Dai et al. 2022). 
 
