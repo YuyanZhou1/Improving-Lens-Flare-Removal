@@ -1,5 +1,7 @@
 # ICCV 2023: Improving Lens Flare Removal with General Purpose Pipeline and Multiple Light Sources Recovery
 [Paper](https://arxiv.org/abs/2308.16460)
+
+[Yuyan Zhou](https://github.com/YuyanZhou1), [Dong Liang](http://faculty.nuaa.edu.cn/liangdong/zh_CN/index.htm), [Songcan Chen](http://parnec.nuaa.edu.cn/), [Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj), Shuo Yang, [Chongyi Li](https://li-chongyi.github.io/)
 ## Dataset
 ### Training data
 Wu el al. training images are provided in [How to Train Neural Networks for Flare Removal](https://github.com/google-research/google-research/tree/master/flare_removal) (Wu et al. ICCV 2021)
