@@ -11,7 +11,7 @@ Imaging Technology Group, DJI Innovations Co. Ltd., Shanghai, China
 
 School of Computer Science, Nankai University, Tianjin, China
 
-![image](https://github.com/YuyanZhou1/Improving-Lens-Flare-Removal/blob/main/result.pdf)
+
 ## Dataset
 ### Training data
 Wu el al. training images are provided in [How to Train Neural Networks for Flare Removal](https://github.com/google-research/google-research/tree/master/flare_removal) (Wu et al. ICCV 2021)
