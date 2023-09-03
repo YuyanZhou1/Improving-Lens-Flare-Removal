@@ -18,7 +18,7 @@ Wu el al. training images are provided in [How to Train Neural Networks for Flar
 
 Flare7K training images are provided in [Flare7K: A Phenomenological Nighttime Flare Removal Dataset](https://github.com/ykdai/Flare7K) (Dai et al. NeurIPS 2022). 
 
-Please follow their instructions to access this data.
+Please follow their instructions to access the data.
 ### Test data
 The consumer electronics dataset can be downloaded in [Google Cloud](https://drive.google.com/drive/folders/1J1fw1BggOP-L1zxF7NV0pYhvuZQsmiWY?usp=sharing).
 ### Pre-trained Model
