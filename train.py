@@ -83,7 +83,7 @@ def main(_):
   # Load data.
   scenes = data_provider.get_scene_dataset(
       FLAGS.scene_dir, FLAGS.data_source, FLAGS.batch_size, repeat=FLAGS.epochs)
-  flares_simulated = data_provider.get_flare_dataset2(FLAGS.flares_dir, FLAGS.data_source,
+  flares_simulated = data_provider.get_flare_dataset(FLAGS.flares_dir, FLAGS.data_source,
                                            FLAGS.batch_size)
   flares_captured = data_provider.get_flare_dataset(FLAGS.flarec_dir, FLAGS.data_source,
                                            FLAGS.batch_size)
