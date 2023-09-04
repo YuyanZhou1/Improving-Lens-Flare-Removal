@@ -129,7 +129,7 @@ def main(_):
     #if tag=0 all the flares are captured
     #if tag=1 all the flares are simulated
     #if tag=2 one is captured one is simulated
-    tag = 2
+    #tag = 2
     if tag == 0:
       flare = flarec
     if tag == 1:
