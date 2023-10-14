@@ -21,9 +21,9 @@ Flare7K training images are provided in [Flare7K: A Phenomenological Nighttime F
 Please follow their instructions to access the data.
 ### Test data
 The consumer electronics dataset can be downloaded in [Google Cloud](https://drive.google.com/drive/folders/1J1fw1BggOP-L1zxF7NV0pYhvuZQsmiWY?usp=sharing).
-or [Baidu Netdisk](https://pan.baidu.com/s/1KPjDAvNDaLwdxBgtRGPe2A) (password：ptb3)
+or [Baidu Netdisk](https://pan.baidu.com/s/1KPjDAvNDaLwdxBgtRGPe2A) (password：ptb3).
 ### Pre-trained Model
-The inference code based on Uformer can be downloaded in [Google Cloud](https://drive.google.com/drive/folders/1ngjUh6UzA99-XLi6esK9OdP7ORhU6i8R?usp=sharing).
+The inference code based on Uformer can be downloaded in [Google Cloud](https://drive.google.com/drive/folders/1ngjUh6UzA99-XLi6esK9OdP7ORhU6i8R?usp=sharing) or [Baidu Netdisk](https://pan.baidu.com/s/1vrUAS-fIP7Y2aPGjvipU6g) (password: vmxl).
 
 ## Code
 The backbone of our code is from Wu et al. [How to Train Neural Networks for Flare Removal](https://github.com/google-research/google-research/tree/master/flare_removal). We imporve the synthesis pipeline and light source recovery method to obtain better performance on flare removal. 
