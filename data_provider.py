@@ -142,7 +142,7 @@ def get_scene_dataset(path,
 def get_flare_dataset(path,
                       source,
                       batch_size,
-                      input_shape = (1440, 1440, 3),
+                      input_shape = (752, 1008, 3),
                       repeat = -1):
   """Returns flare images according to configuration."""
   if source == 'tfrecord':
