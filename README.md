@@ -1,15 +1,11 @@
-# ICCV 2023: Improving Lens Flare Removal with General Purpose Pipeline and Multiple Light Sources Recovery
-[Paper Link](https://arxiv.org/abs/2308.16460)
+# Image Lens Flare Removal Using Adversarial Curve Learning 
 
-[Yuyan Zhou](https://github.com/YuyanZhou1), [Dong Liang](http://faculty.nuaa.edu.cn/liangdong/zh_CN/index.htm), [Songcan Chen](http://parnec.nuaa.edu.cn/), [Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj), [Shuo Yang](https://scholar.google.com/citations?user=mbIW-KMAAAAJ&hl=zh-CN)
+This repository provides the official implementation for the following two papers:
 
-MIIT Key Laboratory of Pattern Analysis and Machine Intelligence, College of Computer Science and Technology,
+**Improving Lens Flare Removal with General Purpose Pipeline and Multiple Light Sources Recovery** [(ICCV 2023)](https://arxiv.org/abs/2308.16460)
 
-Nanjing University of Aeronautics and Astronautics, Nanjing, China
+**Image Lens Flare Removal Using Adversarial Curve Learning** arxiv 2024
 
-Imaging Technology Group, DJI Innovations Co. Ltd., Shanghai, China
-
-School of Computer Science, Nankai University, Tianjin, China
 <img src="result-1.png" width="800px"/>
 
 ## Dataset
