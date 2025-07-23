@@ -4,7 +4,7 @@ This repository provides the official implementation for the following two paper
 
 **Improving Lens Flare Removal with General Purpose Pipeline and Multiple Light Sources Recovery** [(ICCV 2023)](https://arxiv.org/abs/2308.16460)
 
-**Image Lens Flare Removal Using Adversarial Curve Learning** arxiv 2024
+**Image Lens Flare Removal Using Adversarial Curve Learning [(TPAMI 2025)]** 
 
 <img src="result-1.png" width="800px"/>
 
